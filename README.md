@@ -46,9 +46,6 @@ Three clustering algorithms were explored:
   - **RandomForest**
   - **ARIMA**
 
-### 4. Hotspot Prediction with XGBoost
-- A **supervised learning model (XGBoost)** was trained to unify predictions.  
-- Final output includes **risk scores and future predictions per hotspot**.  
 
 ---
 
