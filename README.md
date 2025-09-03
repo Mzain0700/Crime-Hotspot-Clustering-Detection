@@ -15,7 +15,7 @@ The final output is a set of **JSON files** containing information on identified
 ---
 
 ## 📊 Dataset
-The analysis is based on the comprehensive **"Crimes - 2001 to Present"** dataset provided by the City of Chicago. The Dataset Size is Approximately **10 Million Rows** from 2001-2025.
+The analysis is based on the comprehensive **"Crimes - 2001 to Present"** dataset provided by the City of Chicago. The Dataset Size is Approximately **82.73 lacs Rows** from 2001-2025.
 This dataset includes detailed records of reported criminal incidents from **2001 to the present**, with information on **location, crime type, date, and time**.
 
 📥 **Chicago Portal Link**: https://data.cityofchicago.org/
@@ -51,7 +51,7 @@ Three clustering algorithms were explored:
 ---
 
 ## 📌 Dataset Summary
-- **Total Records**: 10 million (filtered for complete records).  
+- **Total Records**: 8.7 million (filtered for complete records).  
 - **Time Range**: ~2001 to present.  
 
 ### 🔝 Top Crime Types
