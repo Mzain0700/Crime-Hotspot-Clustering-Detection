@@ -41,8 +41,10 @@ Three clustering algorithms were explored:
 ### 3. Time Series Forecasting
 - For each hotspot, monthly crime counts were modeled.  
 - Models used:  
-  - **sktime** library (multiple forecasting algorithms).  
-  - **Prophet** (by Facebook), ideal for seasonality and trend-based crime prediction.  
+  - **LinearRegression**
+  - **LSTM**
+  - **RandomForest**
+  - **ARIMA**
 
 ### 4. Hotspot Prediction with XGBoost
 - A **supervised learning model (XGBoost)** was trained to unify predictions.  
