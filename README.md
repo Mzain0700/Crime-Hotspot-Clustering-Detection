@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d0e9b25-bf21-4090-a848-319d4be20832" />
+
 # Chicago Crime Hotspot Detection and Time Series Prediction
 
 This repository contains a data analysis and machine learning project focused on **identifying crime hotspots** and **predicting future crime trends** using Chicago dataset. Using historical crime data, the project applies clustering, time series analysis, and predictive modeling to provide actionable insights into crime patterns.
